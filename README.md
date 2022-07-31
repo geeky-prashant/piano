@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Piano</h2>
-In this project, I have used CSS and Responsive Design to build a piano, <br />The project is built using HTML5 & CSS3.
+In this project, I have used CSS and Responsive Design to build a piano, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/piano/"><strong>➥ Live Demo</strong></a>
 
